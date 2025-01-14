@@ -1,6 +1,6 @@
 {
-  "name": "opta",
-  "symbol": "casa",
+  "name": "optacasa",
+  "symbol": "optacasa",
   "description": "create token with logo",
   "image": "https://raw.githubusercontent.com/optacasa/test/refs/heads/master/android-chrome-512x512.png"
 }
