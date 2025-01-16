@@ -2,5 +2,20 @@
   "name": "Redeken",
   "symbol": "RDKN",
   "description": "Official https://www.redeken.com token",
-  "image": "https://raw.githubusercontent.com/optacasa/token/refs/heads/master/redeken/logo.png"
+  "image": "https://raw.githubusercontent.com/optacasa/token/refs/heads/master/redeken/logo.png",
+  "extensions": {
+    "website": "https://www.redeken.com",
+    "twitter": "https://x.com/redeken",
+    "telegram": "https://t.me/redeken"
+  },
+  "tags": [
+    "se",
+    "search",
+    "engine",
+    "develop"
+  ],
+  "creator": {
+    "name": "optacasa",
+    "site": "https://www.optacasa.com"
+  }  
 }
