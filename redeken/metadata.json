@@ -8,6 +8,9 @@
     "twitter": "https://x.com/redeken",
     "telegram": "https://t.me/redeken"
   },
+  "website": "https://www.redeken.com",
+  "twitter": "https://x.com/redeken",
+  "telegram": "https://t.me/redeken",
   "tags": [
     "se",
     "search",
@@ -17,5 +20,5 @@
   "creator": {
     "name": "optacasa",
     "site": "https://www.optacasa.com"
-  }  
+  }
 }
