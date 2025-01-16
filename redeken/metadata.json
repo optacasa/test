@@ -8,36 +8,48 @@
     "twitter": "https://x.com/redeken",
     "telegram": "https://t.me/redeken"
   },
-  "additionalMetadata": [
-    [
-      "website",
-      "https://www.redeken.com/new"
-    ],
-    [
-      "twitter",
-      "https://x.com/redeken-new"
-    ],
-    [
-      "telegram",
-      "https://t.me/redeken-new"
-    ],
-    [
-      "description",
-      "Official https://www.redeken.com token"
-    ],
-    [
-      "facebook",
-      "https://t.me/redeken-new"
-    ],
-    [
-      "youtube",
-      "https://www.youtube.com/@redeken"
-    ],
-    [
-      "instagram",
-      "https://www.instagram.com/redeken"
-    ]
-  ],
+  "extension": {
+    "website": "https://www.redeken.com1",
+    "twitter": "https://x.com/redeken2",
+    "telegram": "https://t.me/redeken3",
+    "tokenMetadata": {
+      "state": {
+        "website": "https://www.redeken.com4",
+        "twitter": "https://x.com/redeken5",
+        "telegram": "https://t.me/redeken6",
+        "additionalMetadata": [
+          [
+            "website",
+            "https://www.redeken.com/new"
+          ],
+          [
+            "twitter",
+            "https://x.com/redeken-new"
+          ],
+          [
+            "telegram",
+            "https://t.me/redeken-new"
+          ],
+          [
+            "description",
+            "Official https://www.redeken.com token"
+          ],
+          [
+            "facebook",
+            "https://t.me/redeken-new"
+          ],
+          [
+            "youtube",
+            "https://www.youtube.com/@redeken"
+          ],
+          [
+            "instagram",
+            "https://www.instagram.com/redeken"
+          ]
+        ]
+      }
+    }
+  },
   "website": "https://www.redeken.com",
   "twitter": "https://x.com/redeken",
   "telegram": "https://t.me/redeken",
