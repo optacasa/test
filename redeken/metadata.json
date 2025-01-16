@@ -1,58 +1,76 @@
 {
   "name": "Redeken",
   "symbol": "RDKN",
-  "description": "Official https://www.redeken.com token",
+  "description": "This is the official token for the service https://www.redeken.com",
   "image": "https://raw.githubusercontent.com/optacasa/token/refs/heads/master/redeken/logo.png",
-  "extensions": {
-    "website": "https://www.redeken.com",
-    "twitter": "https://x.com/redeken",
-    "telegram": "https://t.me/redeken"
-  },
-  "extension": {
-    "website": "https://www.redeken.com1",
-    "twitter": "https://x.com/redeken2",
-    "telegram": "https://t.me/redeken3",
-    "tokenMetadata": {
-      "state": {
-        "website": "https://www.redeken.com4",
-        "twitter": "https://x.com/redeken5",
-        "telegram": "https://t.me/redeken6",
-        "additionalMetadata": [
-          [
-            "website",
-            "https://www.redeken.com/new"
-          ],
-          [
-            "twitter",
-            "https://x.com/redeken-new"
-          ],
-          [
-            "telegram",
-            "https://t.me/redeken-new"
-          ],
-          [
-            "description",
-            "Official https://www.redeken.com token"
-          ],
-          [
-            "facebook",
-            "https://t.me/redeken-new"
-          ],
-          [
-            "youtube",
-            "https://www.youtube.com/@redeken"
-          ],
-          [
-            "instagram",
-            "https://www.instagram.com/redeken"
-          ]
-        ]
-      }
-    }
-  },
-  "website": "https://www.redeken.com",
-  "twitter": "https://x.com/redeken",
-  "telegram": "https://t.me/redeken",
+  "additionalMetadata": [
+    [
+      "website",
+      "https://www.redeken.com/"
+    ],
+    [
+      "twitter",
+      "https://x.com/redeken"
+    ],
+    [
+      "telegram",
+      "https://t.me/redeken"
+    ],
+    [
+      "description",
+      "Official https://www.redeken.com token"
+    ],
+    [
+      "facebook",
+      "https://facebook.com/redeken"
+    ],
+    [
+      "youtube",
+      "https://www.youtube.com/@redeken"
+    ],
+    [
+      "instagram",
+      "https://www.instagram.com/redeken"
+    ],
+    [
+      "description",
+      "This is the official token for the service https://www.redeken.com"
+    ]
+  ],
+  "extensions": [
+    [
+      "description",
+      "This is the official token for the service https://www.redeken.com"
+    ],
+    [
+      "website",
+      "https://www.redeken.com/"
+    ],
+    [
+      "twitter",
+      "https://x.com/redeken"
+    ],
+    [
+      "telegram",
+      "https://t.me/redeken"
+    ],
+    [
+      "description",
+      "Official https://www.redeken.com token!"
+    ],
+    [
+      "facebook",
+      "https://facebook.com/redeken"
+    ],
+    [
+      "youtube",
+      "https://www.youtube.com/@redeken"
+    ],
+    [
+      "instagram",
+      "https://www.instagram.com/redeken"
+    ]
+  ],
   "tags": [
     "se",
     "search",
