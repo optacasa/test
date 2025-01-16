@@ -3,6 +3,9 @@
   "symbol": "RDKN",
   "description": "This is the official token for the service https://www.redeken.com",
   "image": "https://raw.githubusercontent.com/optacasa/token/refs/heads/master/redeken/logo.png",
+  "website":"https://www.redeken.com/",
+  "telegram":"https://t.me/redeken",
+  "twitter":"https://x.com/redeken",
   "additionalMetadata": [
     [
       "website",
